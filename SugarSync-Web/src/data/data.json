@@ -1,0 +1,177 @@
+{
+  "Header": {
+    "title": "Sugar Sync",
+    "paragraph": "App To Track , Control & Manage Your Diabetes "
+  },
+  "About": {
+    "paragraph": "This app is designed to help individuals manage, control, and track their diabetes. It allows users to monitor their blood sugar levels, track medication, and log meals and exercise. The app also provides personalized insights and reminders to assist users in maintaining healthy habits and staying on top of their diabetes management.",
+    "Why": [
+      "Monitor blood sugar levels easily",
+      "Track medications and dosages",
+      "Log meals and exercise",
+      "Set personalized reminders"
+    ],
+    "Why2": [
+      "Calculate food's nutritional levels",
+      "Track overall progress over time",
+      "Use graphs to visualize data",
+      "User-friendly interface"
+    ]
+  },
+  "Gallery": [
+    {
+      "largeImage": "img/uidesign/01-large.jpg",
+      "smallImage": "img/uidesign/01-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/02-large.jpg",
+      "smallImage": "img/uidesign/02-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/03-large.jpg",
+      "smallImage": "img/uidesign/03-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/04-large.jpg",
+      "smallImage": "img/uidesign/04-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/05-large.jpg",
+      "smallImage": "img/uidesign/05-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/06-large.jpg",
+      "smallImage": "img/uidesign/06-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/07-large.jpg",
+      "smallImage": "img/uidesign/07-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/08-large.jpg",
+      "smallImage": "img/uidesign/08-small.jpg"
+    },
+    {
+      "largeImage": "img/uidesign/09-large.jpg",
+      "smallImage": "img/uidesign/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-heart",
+      "name": "Track Blood Sugar Level",
+      "text": "Monitor and track your blood sugar levels regularly to manage your health more effectively."
+    },
+    {
+      "icon": "fa fa-calculator",
+      "name": "Meal Nutrition Calculator",
+      "text": "A tool to calculate the nutritional value of your meals, helping you track calorie intake and nutrients."
+    },
+    {
+      "icon": "fa fa-bell",
+      "name": "Daily Reminders",
+      "text": "Automated reminders that notify at scheduled times to take your medication, complete exercises, or attend to other health-related tasks ."
+    },
+    {
+      "icon": "fa fa-plus",
+      "name": "Share with the Doctor",
+      "text": "Easily share your health data with your doctor for better monitoring and advice."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "name": "Meal Plan and Exercise Recommendation",
+      "text": "Personalized suggestions for meals and workouts based on your health goals and preferences."
+    },
+    {
+      "icon": "fa fa-user-md",
+      "name": "Caregiver Access",
+      "text": "Give caregivers access to your health information for better support and assistance."
+    }
+  ],
+"Testimonials": [
+  {
+    "img": "img/testimonials/01.jpg",
+    "text": "\"It has been a privilege to supervise this talented team on their innovative diabetes management app. Their work integrates advanced technology with user-centric design to address a critical health issue effectively.\"",
+    "name": "Mr Damantha Silva",
+    "title": "Lecturer - IIT",
+    "role": "Supervisor of the Team"
+  },
+  {
+    "img": "img/testimonials/02.jpg",
+    "text": "\"As a healthcare professional, I am impressed by the comprehensive approach this app takes in managing diabetes. The team's dedication to ensuring user accessibility and accurate monitoring is commendable.\"",
+    "name": "Dr P.G Kasun Anuradha",
+    "title": "Consultant physician",
+    "role": "Healthcare Expert"
+  },
+  {
+    "img": "img/testimonials/03.jpg",
+    "text": "\"I have had the pleasure of reviewing this app and supporting the team in refining the UI design to make it more user-friendly. Their dedication to creating an intuitive and engaging experience is truly remarkable.\"",
+    "name": "Ms Dilmi Hemangi",
+    "title": "QA Engineer - CodeGen",
+    "role": "UI Design Reviewer"
+  }
+],
+"Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Movidu De Silva [ Team Lead ]",
+      "job": "IIT ID - 20230928"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Nawanjana Yapa",
+      "job": "IIT ID - 20232199"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sanuji Weerasinghe",
+      "job": "IIT ID - 20231056"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ihan Hansaja",
+      "job": "IIT ID - 20231018"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Dineth De Alwis",
+      "job": "IIT ID - 20230171"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Kavindu De Silva",
+      "job": "IIT ID - 20230013"
+    }
+  ],
+  "Contact": {
+    "address": "57, Ramakrishna Road, Colombo 06, Sri Lanka.",
+    "phone": "+94 76 321 5399",
+    "email": "dineth.20230171@iit.ac.lk",
+    "instagram": "https://www.instagram.com/sugarrsync/profilecard/?igsh=MTVtZWZ1MTZpbDV1Mw==",
+    "linkedin": "https://www.linkedin.com/company/sugarrsync/",
+    "youtube": "https://youtube.com/@sugarrsync?si=J3-AgwyF4ODfUVf6",
+    "github": "https://github.com/DinethDilhara/sugarsync-web.git"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-heart",
+      "title": "Diabetes Patients",
+      "text": "Effective diabetes management is crucial for long-term patients to maintain stable blood sugar levels, preventing complications like heart disease, kidney failure, and nerve damage. Regular monitoring, medication adherence, and lifestyle changes are essential for improving quality of life."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Regulatory Bodies",
+      "text": "Regulatory bodies play a critical role in ensuring that diabetes management practices meet medical standards, enforce safe medication use, and promote public awareness of the disease. They oversee guidelines that improve care, medication approval, and patient education."
+    },
+    {
+      "icon": "fa fa-plus",
+      "title": "Health Care Professionals",
+      "text": "Health care professionals, including doctors, nurses, and specialists, are vital in diabetes management. They provide tailored treatment plans, educate patients on lifestyle modifications, monitor progress, and adjust medications to ensure patients’ blood sugar remains under control."
+    },
+    {
+      "icon": "fa fa-user-md",
+      "title": "Caregivers",
+      "text": "Caregivers play an essential role in supporting diabetes patients by assisting with daily medication management, monitoring blood glucose levels, encouraging healthy eating habits, and providing emotional support to help patients manage the physical and mental challenges of diabetes."
+    }
+]
+}
